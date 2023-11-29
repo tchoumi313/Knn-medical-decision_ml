@@ -1,0 +1,6 @@
+Patient_ID,Symptom1,Symptom2,Symptom3,Symptom4,Symptom5,Maladie,Medicament_Prescribed
+1,1,1,0,1,0,GASTROENTERITE,Diarétil
+2,0,1,1,1,1,GASTROENTERITE,Other Medication1
+3,1,1,1,0,0,GASTROENTERITE,Other Medication2
+4,0,0,1,1,0,COMMON COLD,Tiorfan
+5,1,1,1,1,1,GERMAN MEASLES,Interix
